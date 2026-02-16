@@ -1,5 +1,35 @@
 # UI-UX-Experiment2
 
+## Aim:
+To design responsive mobile and web layouts for an existing digital product by applying Gestalt principles, UI patterns, usability guidelines, and branding techniques — ensuring a cohesive and user-centered experience.
+
+## Algorithm:
+a. Applying Gestalt Principles
+
+Gestalt principles help users perceive order and clarity in design. Here’s how to apply them:
+
+Proximity
+
+Group related elements (e.g., navigation links, product info) close together.
+
+In mobile: Keep navigation compact at the bottom.
+
+In web: Use grouped menu categories at the top.
+
+Similarity
+
+Use consistent button shapes, colors, and typography to signal similar actions.
+
+Example: All call-to-action (CTA) buttons in the same bold color.
+
+Figure-Ground
+
+Ensure important content (product, form, call-to-action) stands out against background.
+
+Example: Light background with dark text, or card-style product displays.
+
+Continuity
+
 Arrange elements along straight lines or smooth curves to guide the eye naturally.
 
 Example: Product details flowing from image → description → price → CTA.
@@ -28,7 +58,6 @@ Hero Banner: Full-width image with overlay text and CTA.
 Content Grid: 3 or 4-column product/service cards.
 
 Sidebar/Filters (if e-commerce case).
-
 Footer: Links, contact info, social media icons.
 
 Design Patterns used:
@@ -61,3 +90,4 @@ Mobile First: Layout designed for small screens first, then adapted to web.
 
 ## Result:
 Successfully designed a mobile and web layout was designed using Gestalt principles, standard UI patterns, and usability practices. A brand logo was created in Canva to establish a clear and consistent visual identity.
+
